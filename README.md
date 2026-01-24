@@ -22,15 +22,18 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-003B57?style=flat)
 
+![REST API](https://img.shields.io/badge/REST%20API-yellow)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode)
 ![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat)
 ![ERD Plus](https://img.shields.io/badge/ERD%20Plus-4CAF50?style=flat)
+
+![DDD](https://img.shields.io/badge/Architecture-Domain%20Driven%20Design-important)
+
 
 ```csharp
 // About Me (structured)
