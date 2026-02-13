@@ -14,25 +14,31 @@
 
 ## 🚀 Tech Stack & Tools
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0A66C2)
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-003B57?style=flat)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927)
+![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-CC2927)
+![Query Optimization](https://img.shields.io/badge/Query_Optimization-CC2927)
 
-![REST API](https://img.shields.io/badge/REST%20API-yellow)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=flat)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4)
+![DTO Design](https://img.shields.io/badge/DTO_Design-4CAF50)
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode)
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=flat)
-![ERD Plus](https://img.shields.io/badge/ERD%20Plus-4CAF50?style=flat)
+![Asynchronous Programming](https://img.shields.io/badge/Asynchronous_Programming-7952B3)
+![Multithreading](https://img.shields.io/badge/Multithreading-7952B3)
+
+![SignalR](https://img.shields.io/badge/SignalR-512BD4)
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2E7D32)
+![Secure Authentication](https://img.shields.io/badge/Secure_Authentication_Practices-2E7D32)
 
 ![DDD](https://img.shields.io/badge/Architecture-Domain%20Driven%20Design-important)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing_(Swagger)-85EA2D?logo=swagger&logoColor=black)
+![Debugging](https://img.shields.io/badge/Debugging-607D8B)
 
 
 ```csharp
@@ -40,17 +46,43 @@
 
 class SaeedSaleh
 {
-    public string Role => "Full-Stack .NET Desktop & Backend Developer";
+    public string Role => "Junior Software Developer";
 
-    public string[] ProgrammingLanguages = { "C#", "C++" };
-    public string[] OtherLanguages = { "HTML", "JSON" };
+    public string[] Frameworks =>
+        new[] { "ASP.NET Core", "WinForms" };
 
-    public string[] Databases = { "SQL Server", "T-SQL" };
-    public string[] DataAccess = { "ADO.NET" };
+    public string[] ProgrammingLanguages =>
+        new[] { "C#", "C++ (basic)" };
 
-    public string[] Tools =
-    {
-        "Visual Studio", "VS Code", "Git", "GitHub",
-        "SSMS", "Draw.io", "ERD Plus"
-    };
+    public string[] DataFormats =>
+        new[] { "JSON", "HTML (basic)" };
+
+    public string[] Databases =>
+        new[] { "SQL Server", "T-SQL" };
+
+    public string[] DataAccess =>
+        new[] { "ADO.NET", "DTO Design" };
+
+    public string[] EngineeringPractices =>
+        new[]
+        {
+            "Layered Architecture",
+            "Clean Architecture Principles",
+            "Asynchronous Programming",
+            "Secure Authentication Practices"
+        };
+
+    public string[] Tools =>
+        new[]
+        {
+            "Visual Studio",
+            "Git",
+            "GitHub",
+            "SQL Server Management Studio (SSMS)",
+            "Swagger / OpenAPI",
+            "Draw.io",
+            "ERD Plus"
+        };
+
+    public string Mindset => "Problem-solving, system-oriented, and automation-driven";
 }
