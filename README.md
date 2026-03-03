@@ -26,7 +26,7 @@
 ![Mediator](https://img.shields.io/badge/Mediator-red)
 ![Unit Of Work](https://img.shields.io/badge/Unit_Of_Work-red)
 ![Dependency_Injection](https://img.shields.io/badge/Dependency_Injection-red)
-![Singlton](https://img.shields.io/badge/Singlton-red)
+![Singleton](https://img.shields.io/badge/Singlton-red)
 ![Builder](https://img.shields.io/badge/Builder-red)
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
@@ -42,3 +42,24 @@
 
 ![Swashbuckle](https://img.shields.io/badge/Swashbuckle-OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Documentation](https://img.shields.io/badge/Docs-XML--Comments-007ACC?style=flat-square&logo=dotnet&logoColor=white)
+
+
+---
+
+## 📌 Pinned Projects
+
+### 💰 [Digital-Wallet](https://github.com/Saeed-AbuYasser/Digital-Wallet)
+A robust REST API application for managing financial transactions and bill payments.
+* **Key Features:** Implements Clean Architecture, SOLID Principles, and related Design Patterns.
+* **Tech:** ASP.NET Core, ADO.NET , SQL Server.
+
+### ⚙️ [Data-Access-Layer-Code-Generator](https://github.com/Saeed-AbuYasser/Data-Access-Layer-Code-Generator)
+A WinForms productivity tool that reads server metadata to automatically generate ADO.NET-based data access code.
+* **Goal:** Reducing boilerplate and human error in legacy data layers.
+
+### 📐 [Bezier-Curves-Repo](https://github.com/Saeed-AbuYasser/Bezier-Curves-Repo)
+A desktop application focused on the mathematical visualization and drawing of Bezier Curves using C#.
+
+---
+
+*I am currently looking for new opportunities! Feel free to reach out if you'd like to collaborate or just talk about .NET.*
