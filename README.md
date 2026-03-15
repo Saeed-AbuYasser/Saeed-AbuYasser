@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Workspace"  width="40%"/><br> 
 
 <h2>Hi, I'm Saeed Saleh 👋</h2>
-<p><strong>Junior C# Developer</strong></p>
+<p><strong>Software Engineer</strong></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saeed-saleh&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saeed%20Saleh-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saeed-saleh-77b522339)
